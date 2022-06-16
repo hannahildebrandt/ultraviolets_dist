@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ultraviolets",
+    "description": "",
+    "home_page_url": "https://uv.hannahildebrandt.com",
+    "feed_url": "https://uv.hannahildebrandt.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "hanna"
+    },
+    "items": [
+        {
+            "id": "https://uv.hannahildebrandt.com/my-life-in-games-part-1/",
+            "url": "https://uv.hannahildebrandt.com/my-life-in-games-part-1/",
+            "title": "My life in games, part 1",
+            "summary": "The first games I remember playing were mystical things. Probably weird monochrome things, forgotten by pretty much everyone, in green text on a monitor at the home of someone with way more money than us. I don’t remember playing anything, these were top-of-the-line 286s that&hellip;",
+            "content_html": "<p>The first games I remember playing were mystical things. Probably weird monochrome things, forgotten by pretty much everyone, in green text on a monitor at the home of someone with way more money than us. I don’t remember playing anything, these were top-of-the-line 286s that I couldn’t even ask to touch.</p>\n<p>But then, suddenly, everything exploded. We knew so many people who had a computer tucked away in their basement, loud and wonderful and sporting stunning 16-colour EGA graphics. Thankfully, I was mostly spared the CGA era’s cyan and magenta monstrosities, though every game would have it as an option that you’d always try once out of morbid curiosity.</p>\n<p>Somehow, everyone had the same games, and I don’t know how that happened. I mean, I know how they got there: it would be years before computers could be bought on a store shelf. No, every town had A Guy Who Built Computers. Only one, ever. They were also the town’s resident C programmer, but got very little recognition for successfully learning an entire programming language without Stack Overflow.</p>\n<p>You were given a price. You paid that price, and they would buy the parts, build it, test it, and bring it to your house and set it up for you. The last step was important, because if they didn’t, you were left with a box with Power and Turbo buttons that were capable of writing “C:&gt;“ on a really expensive 14” screen.</p>\n<p>If you were a latecomer to the world of computers, they’d teach you to type “win” to get to Windows. But there was a whole, glorious, pre-Windows era. MS-DOS 5.5 was the gold standard, and getting it to do anything involved learning, at the very least, how to type “dir” and “cd” and understand how the computer replied. And what “.exe” meant.</p>\n<p>Out of the box, computers were…kind of useless. At least, for most families, if “usefulness” meant “something you try to accomplish a task on.” But people didn’t buy them to be productive. They were bought because they were weird, mystical machines that we instinctively knew would be important, somehow.</p>\n<p>Without software, though, they were <em>literally</em> useless. Which is why “C:\\GAMES” existed. The Computer Guy didn’t just put the hardware together, they also pre-filled your hard drive with their personal trove of games. Yes, this gave people something to actually <em>do</em> on the computer, but it was also how they showed you your new purchase. What can your new computer do? Well, if you type this, then type this…voila, Alley Cat.</p>\n<p>It’s the prestige, the moment where they sit back and let you marvel at this thing you just paid inordinate amounts of money for. And yeah, you were impressed. Especially at the fact that he made this happen with some dark, conjuring words that you didn’t yet understand. You weren’t drunk with power, not yet, but you could taste it. And you’d get him to write those commands down on a post-it note so that you could pull off the same trick, over and over, for every person under 30 who came into your home.</p>\n<p>The Computer Guys who went the extra mile would help make the friction of learning DOS a little easier by implement a rudimentary menu system that would open automatically when the computer started, so a single keystroke would open each of the games they preloaded. But there was always a key to bail out of the menu, back to the DOS prompt, where the true danger waited. </p>\n<p>Wait, no, the true danger was the single warning you got: there was this screen called the “BIOS”. It’s the computer’s guts. And you’ll know it’s the computer’s guts, because it looks like it, just a mess of all the colours forsaken by god. If you see this screen, turn the computer off. That’s the one and only place you can really, truly, just utterly destroy the entire machine by changing a single setting. You’re not supposed to be there. If you turn the computer off, and back on, it shouldn’t come back.</p>\n<p>Soon, kids would be begging their parents for a computer. And the parents probably didn’t have the same reaction to seeing a weird animated cat walk across the screen. But we weren’t there yet. Computers were a hobby, and anyone who bought one was instantly a hobbyist.</p>\n<p>Wait until they discover BBSs.</p>\n",
+            "image": "https://uv.hannahildebrandt.com/media/posts/1/yarn-03.png",
+            "author": {
+                "name": "hanna"
+            },
+            "tags": [
+                   "my life in games"
+            ],
+            "date_published": "2022-06-15T14:48:26-07:00",
+            "date_modified": "2022-06-16T00:31:39-07:00"
+        }
+    ]
+}
